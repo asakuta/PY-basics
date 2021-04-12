@@ -1,4 +1,5 @@
 import math
+
 def fac(value):
 	result=1
 	for x in range(1, value+1):
