@@ -1,4 +1,4 @@
-import math #test comment.
+import math
 
 def fac(value):
 	result=1
